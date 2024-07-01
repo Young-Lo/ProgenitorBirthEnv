@@ -1,4 +1,4 @@
-# Progenitor_Birth_Env: Kim et al.
+# Progenitor_Birth_Env: Kim et al. 2024, MNRAS, 529, 3806.
 
 * Currently-observed host galaxy properties are taken from Kang et al. 2016 & 2020
  (https://ui.adsabs.harvard.edu/abs/2016ApJS..223....7K/abstract, https://ui.adsabs.harvard.edu/abs/2020ApJ...889....8K/abstract).
